@@ -48,20 +48,20 @@ Key Findings & Business Recommendations:
 
    My analysis identified the following critical drivers of customer churn:
 
-  -Contract Type: Customers on a month-to-month contract are significantly more likely to churn compared to those with longer-term contracts.
+  - Contract Type: Customers on a month-to-month contract are significantly more likely to churn compared to those with longer-term contracts.
 
-  -Internet Service: Fiber optic users have a much higher churn rate, indicating potential service dissatisfaction.
+  - Internet Service: Fiber optic users have a much higher churn rate, indicating potential service dissatisfaction.
 
-  -Customer Lifecycle: Lower tenure and lower TotalCharges are strong indicators of churn, suggesting that new customers are a high-risk group.
+  - Customer Lifecycle: Lower tenure and lower TotalCharges are strong indicators of churn, suggesting that new customers are a high-risk group.
 
-  -Payment & Support: The "Electronic check" payment method and the lack of OnlineSecurity or TechSupport services are highly correlated with churn.
+  - Payment & Support: The "Electronic check" payment method and the lack of OnlineSecurity or TechSupport services are highly correlated with churn.
 
-  -Based on these findings, I recommend the following for the business:
+  - Based on these findings, I recommend the following for the business:
 
-  -Retention Offers: Implement targeted retention campaigns with discounts or incentives specifically for customers on month-to-month contracts.
+  - Retention Offers: Implement targeted retention campaigns with discounts or incentives specifically for customers on month-to-month contracts.
 
-  -Service Improvement: Investigate and improve the fiber optic service to address potential performance or support issues.
+  - Service Improvement: Investigate and improve the fiber optic service to address potential performance or support issues.
 
-  -Promote Stability: Encourage customers to switch to 1-year or 2-year contracts by highlighting the long-term value and stability they offer.
+  - Promote Stability: Encourage customers to switch to 1-year or 2-year contracts by highlighting the long-term value and stability they offer.
 
-  -Enhance Onboarding: Focus on improving the onboarding process for new customers to increase their engagement and tenure.
+  - Enhance Onboarding: Focus on improving the onboarding process for new customers to increase their engagement and tenure.
